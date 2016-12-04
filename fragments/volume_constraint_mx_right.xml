@@ -1,0 +1,226 @@
+<hkobject class="hclVolumeConstraintMx" name="#volume_constraint_2" signature="0x37582f2">
+	<!-- memSizeAndRefCount SERIALIZE_IGNORED -->
+	<hkparam name="name">Volume Constraint</hkparam>
+	<!-- type SERIALIZE_IGNORED -->
+	<hkparam name="frameBatchDatas" numelements="2">
+		<hkobject>
+			<hkparam name="frameVector1">(4.7389674425125122 -3.7014262676239014 3.3850479125976562 0.0)</hkparam>
+			<hkparam name="frameVector2">(4.7389673233032227 -4.886765480041504 0.6621246337890625 0.0)</hkparam>
+			<hkparam name="frameVector3">(-0.03398681804537773 -5.076620101928711 0.6205291748046875 0.0)</hkparam>
+			<hkparam name="frameVector4">(-0.03398806229233742 -3.8982961177825928 3.4648056030273438 0.0)</hkparam>
+			<hkparam name="frameVector5">(1.632663917541504 -3.6432416439056396 0.6985855102539062 0.0)</hkparam>
+			<hkparam name="frameVector6">(3.2157553672790527 -4.553055763244629 0.7190399169921875 0.0)</hkparam>
+			<hkparam name="frameVector7">(3.2157553672790527 -3.390195608139038 3.371337890625 0.0)</hkparam>
+			<hkparam name="frameVector8">(2.164414119720459 -2.334728956222534 3.127685546875 0.0)</hkparam>
+			<hkparam name="frameVector9">(0.9919426918029785 -2.067732095718384 0.3589935302734375 0.0)</hkparam>
+			<hkparam name="frameVector10">(1.691302013397217 -0.9682910442352295 2.638153076171875 0.0)</hkparam>
+			<hkparam name="frameVector11">(1.211159610748291 0.10077035427093506 2.1541595458984375 0.0)</hkparam>
+			<hkparam name="frameVector12">(0.418203639984131 -0.9157311916351318 -0.6316452026367188 0.0)</hkparam>
+			<hkparam name="frameVector13">(0.934960651397705 0.9127403497695923 0.9578323364257812 0.0)</hkparam>
+			<hkparam name="frameVector14">(0.155814361572266 0.005470991134643555 -1.6163253784179688 0.0)</hkparam>
+			<hkparam name="frameVector15">(1.344186878204346 2.5014820098876953 -0.786285400390625 0.0)</hkparam>
+			<hkparam name="frameVector16">(0.297362232208252 2.012958288192749 -1.5613555908203125 0.0)</hkparam>
+			<hkparam name="particleIndex1">0</hkparam>
+			<hkparam name="particleIndex2">1</hkparam>
+			<hkparam name="particleIndex3">2</hkparam>
+			<hkparam name="particleIndex4">3</hkparam>
+			<hkparam name="particleIndex5">4</hkparam>
+			<hkparam name="particleIndex6">5</hkparam>
+			<hkparam name="particleIndex7">6</hkparam>
+			<hkparam name="particleIndex8">7</hkparam>
+			<hkparam name="particleIndex9">8</hkparam>
+			<hkparam name="particleIndex10">9</hkparam>
+			<hkparam name="particleIndex11">10</hkparam>
+			<hkparam name="particleIndex12">11</hkparam>
+			<hkparam name="particleIndex13">12</hkparam>
+			<hkparam name="particleIndex14">13</hkparam>
+			<hkparam name="particleIndex15">14</hkparam>
+			<hkparam name="particleIndex16">15</hkparam>
+			<hkparam name="weight1">0.02631578966975212</hkparam>
+			<hkparam name="weight2">0.02631578966975212</hkparam>
+			<hkparam name="weight3">0.02631578966975212</hkparam>
+			<hkparam name="weight4">0.02631578966975212</hkparam>
+			<hkparam name="weight5">0.02631578966975212</hkparam>
+			<hkparam name="weight6">0.02631578966975212</hkparam>
+			<hkparam name="weight7">0.02631578966975212</hkparam>
+			<hkparam name="weight8">0.02631578966975212</hkparam>
+			<hkparam name="weight9">0.02631578966975212</hkparam>
+			<hkparam name="weight10">0.02631578966975212</hkparam>
+			<hkparam name="weight11">0.02631578966975212</hkparam>
+			<hkparam name="weight12">0.02631578966975212</hkparam>
+			<hkparam name="weight13">0.02631578966975212</hkparam>
+			<hkparam name="weight14">0.02631578966975212</hkparam>
+			<hkparam name="weight15">0.02631578966975212</hkparam>
+			<hkparam name="weight16">0.02631578966975212</hkparam>
+		</hkobject>
+		<hkobject>
+			<hkparam name="frameVector1">(1.4069387912750244 -3.701432943344116 3.3850555419921875 0.0)</hkparam>
+			<hkparam name="frameVector2">(1.406937837600708 -4.88676643371582 0.6621170043945312 0.0)</hkparam>
+			<hkparam name="frameVector3">(2.883725881576538 -3.3901994228363037 3.3713455200195312 0.0)</hkparam>
+			<hkparam name="frameVector4">(2.8837239742279053 -4.5530548095703125 0.719024658203125 0.0)</hkparam>
+			<hkparam name="frameVector5">(4.317477226257324 -3.636876344680786 0.6980743408203125 0.0)</hkparam>
+			<hkparam name="frameVector6">(4.032384872436523 -2.334728479385376 3.1277008056640625 0.0)</hkparam>
+			<hkparam name="frameVector7">(5.289224624633789 -2.0679643154144287 0.359039306640625 0.0)</hkparam>
+			<hkparam name="frameVector8">(4.559272766113281 -0.9682905673980713 2.6381378173828125 0.0)</hkparam>
+			<hkparam name="frameVector9">(5.686168670654297 -0.91573166847229 -0.63165283203125 0.0)</hkparam>
+			<hkparam name="frameVector10">(4.879127502441406 0.10076987743377686 2.1541290283203125 0.0)</hkparam>
+			<hkparam name="frameVector11">(5.2029290199279785 0.9127389192581177 0.9578170776367188 0.0)</hkparam>
+			<hkparam name="frameVector12">(6.023777484893799 0.005474209785461426 -1.616363525390625 0.0)</hkparam>
+			<hkparam name="frameVector13">(4.8181867599487305 2.8656346797943115 -1.140838623046875 0.0)</hkparam>
+			<hkparam name="frameVector14">(5.96943998336792 2.0129592418670654 -1.5613632202148438 0.0)</hkparam>
+			<hkparam name="frameVector15">(1.3874860763549805 3.5036399364471436 -1.2314529418945312 0.0)</hkparam>
+			<hkparam name="frameVector16">(0.188733291625977 2.9937236309051514 -1.895172119140625 0.0)</hkparam>
+			<hkparam name="particleIndex1">16</hkparam>
+			<hkparam name="particleIndex2">17</hkparam>
+			<hkparam name="particleIndex3">18</hkparam>
+			<hkparam name="particleIndex4">19</hkparam>
+			<hkparam name="particleIndex5">20</hkparam>
+			<hkparam name="particleIndex6">21</hkparam>
+			<hkparam name="particleIndex7">22</hkparam>
+			<hkparam name="particleIndex8">23</hkparam>
+			<hkparam name="particleIndex9">24</hkparam>
+			<hkparam name="particleIndex10">25</hkparam>
+			<hkparam name="particleIndex11">26</hkparam>
+			<hkparam name="particleIndex12">27</hkparam>
+			<hkparam name="particleIndex13">28</hkparam>
+			<hkparam name="particleIndex14">29</hkparam>
+			<hkparam name="particleIndex15">30</hkparam>
+			<hkparam name="particleIndex16">31</hkparam>
+			<hkparam name="weight1">0.02631578966975212</hkparam>
+			<hkparam name="weight2">0.02631578966975212</hkparam>
+			<hkparam name="weight3">0.02631578966975212</hkparam>
+			<hkparam name="weight4">0.02631578966975212</hkparam>
+			<hkparam name="weight5">0.02631578966975212</hkparam>
+			<hkparam name="weight6">0.02631578966975212</hkparam>
+			<hkparam name="weight7">0.02631578966975212</hkparam>
+			<hkparam name="weight8">0.02631578966975212</hkparam>
+			<hkparam name="weight9">0.02631578966975212</hkparam>
+			<hkparam name="weight10">0.02631578966975212</hkparam>
+			<hkparam name="weight11">0.02631578966975212</hkparam>
+			<hkparam name="weight12">0.02631578966975212</hkparam>
+			<hkparam name="weight13">0.02631578966975212</hkparam>
+			<hkparam name="weight14">0.02631578966975212</hkparam>
+			<hkparam name="weight15">0.02631578966975212</hkparam>
+			<hkparam name="weight16">0.02631578966975212</hkparam>
+		</hkobject>
+	</hkparam>
+	<hkparam name="frameSingleDatas" numelements="6">
+		<hkobject>
+			<hkparam name="frameVector">(6.067821502685547 2.9251327514648438 -1.9210433959960938 0.0)</hkparam>
+			<hkparam name="particleIndex">32</hkparam>
+			<hkparam name="weight">0.02631578966975212</hkparam>
+			<hkparam name="padding">0</hkparam>
+		</hkobject>
+		<hkobject>
+			<hkparam name="frameVector">(4.762305736541748 3.818350076675415 -1.586029052734375 0.0)</hkparam>
+			<hkparam name="particleIndex">33</hkparam>
+			<hkparam name="weight">0.02631578966975212</hkparam>
+			<hkparam name="padding">0</hkparam>
+		</hkobject>
+		<hkobject>
+			<hkparam name="frameVector">(4.3059844970703125 9.753772735595703 -6.2558441162109375 0.0)</hkparam>
+			<hkparam name="particleIndex">34</hkparam>
+			<hkparam name="weight">0.02631578966975212</hkparam>
+			<hkparam name="padding">0</hkparam>
+		</hkobject>
+		<hkobject>
+			<hkparam name="frameVector">(0.963198471069336 9.755861282348633 -5.901206970214844 0.0)</hkparam>
+			<hkparam name="particleIndex">35</hkparam>
+			<hkparam name="weight">0.02631578966975212</hkparam>
+			<hkparam name="padding">0</hkparam>
+		</hkobject>
+		<hkobject>
+			<hkparam name="frameVector">(-0.472461032867432 9.108875274658203 -5.8513641357421875 0.0)</hkparam>
+			<hkparam name="particleIndex">36</hkparam>
+			<hkparam name="weight">0.02631578966975212</hkparam>
+			<hkparam name="padding">0</hkparam>
+		</hkobject>
+		<hkobject>
+			<hkparam name="frameVector">(6.599923610687256 8.600780487060547 -6.042945861816406 0.0)</hkparam>
+			<hkparam name="particleIndex">37</hkparam>
+			<hkparam name="weight">0.02631578966975212</hkparam>
+			<hkparam name="padding">0</hkparam>
+		</hkobject>
+	</hkparam>
+	<hkparam name="applyBatchDatas" numelements="1">
+		<hkobject>
+			<hkparam name="frameVector1">(1.211159610748291 0.10077035427093506 2.1541595458984375 0.0)</hkparam>
+			<hkparam name="frameVector2">(0.418203639984131 -0.9157311916351318 -0.6316452026367188 0.0)</hkparam>
+			<hkparam name="frameVector3">(0.934960651397705 0.9127403497695923 0.9578323364257812 0.0)</hkparam>
+			<hkparam name="frameVector4">(0.155814361572266 0.005470991134643555 -1.6163253784179688 0.0)</hkparam>
+			<hkparam name="frameVector5">(1.344186878204346 2.5014820098876953 -0.786285400390625 0.0)</hkparam>
+			<hkparam name="frameVector6">(0.297362232208252 2.012958288192749 -1.5613555908203125 0.0)</hkparam>
+			<hkparam name="frameVector7">(5.686168670654297 -0.91573166847229 -0.63165283203125 0.0)</hkparam>
+			<hkparam name="frameVector8">(4.879127502441406 0.10076987743377686 2.1541290283203125 0.0)</hkparam>
+			<hkparam name="frameVector9">(5.2029290199279785 0.9127389192581177 0.9578170776367188 0.0)</hkparam>
+			<hkparam name="frameVector10">(6.023777484893799 0.005474209785461426 -1.616363525390625 0.0)</hkparam>
+			<hkparam name="frameVector11">(4.8181867599487305 2.8656346797943115 -1.140838623046875 0.0)</hkparam>
+			<hkparam name="frameVector12">(5.96943998336792 2.0129592418670654 -1.5613632202148438 0.0)</hkparam>
+			<hkparam name="frameVector13">(1.3874860763549805 3.5036399364471436 -1.2314529418945312 0.0)</hkparam>
+			<hkparam name="frameVector14">(0.188733291625977 2.9937236309051514 -1.895172119140625 0.0)</hkparam>
+			<hkparam name="frameVector15">(6.067821502685547 2.9251327514648438 -1.9210433959960938 0.0)</hkparam>
+			<hkparam name="frameVector16">(4.762305736541748 3.818350076675415 -1.586029052734375 0.0)</hkparam>
+			<hkparam name="particleIndex1">10</hkparam>
+			<hkparam name="particleIndex2">11</hkparam>
+			<hkparam name="particleIndex3">12</hkparam>
+			<hkparam name="particleIndex4">13</hkparam>
+			<hkparam name="particleIndex5">14</hkparam>
+			<hkparam name="particleIndex6">15</hkparam>
+			
+			<hkparam name="particleIndex7">24</hkparam>
+			<hkparam name="particleIndex8">25</hkparam>
+			<hkparam name="particleIndex9">26</hkparam>
+			<hkparam name="particleIndex10">27</hkparam>
+			<hkparam name="particleIndex11">28</hkparam>
+			<hkparam name="particleIndex12">29</hkparam>
+
+			<hkparam name="particleIndex13">30</hkparam>
+			<hkparam name="particleIndex14">31</hkparam>
+
+			<hkparam name="particleIndex15">32</hkparam>
+			<hkparam name="particleIndex16">33</hkparam>
+			<hkparam name="stiffness1">0.009999999776482582</hkparam>
+			<hkparam name="stiffness2">0.009999999776482582</hkparam>
+			<hkparam name="stiffness3">0.009999999776482582</hkparam>
+			<hkparam name="stiffness4">0.009999999776482582</hkparam>
+			<hkparam name="stiffness5">0.009999999776482582</hkparam>
+			<hkparam name="stiffness6">0.009999999776482582</hkparam>
+			<hkparam name="stiffness7">0.009999999776482582</hkparam>
+			<hkparam name="stiffness8">0.009999999776482582</hkparam>
+			<hkparam name="stiffness9">0.009999999776482582</hkparam>
+			<hkparam name="stiffness10">0.009999999776482582</hkparam>
+			<hkparam name="stiffness11">0.009999999776482582</hkparam>
+			<hkparam name="stiffness12">0.009999999776482582</hkparam>
+			<hkparam name="stiffness13">0.009999999776482582</hkparam>
+			<hkparam name="stiffness14">0.009999999776482582</hkparam>
+			<hkparam name="stiffness15">0.009999999776482582</hkparam>
+			<hkparam name="stiffness16">0.009999999776482582</hkparam>
+		</hkobject>
+	</hkparam>
+	<hkparam name="applySingleDatas" numelements="4">
+		<hkobject>
+			<hkparam name="frameVector">(4.3059844970703125 9.753772735595703 -6.2558441162109375 0.0)</hkparam>
+			<hkparam name="particleIndex">34</hkparam>
+			<hkparam name="stiffness">0.009999999776482582</hkparam>
+			<hkparam name="padding">0</hkparam>
+		</hkobject>
+		<hkobject>
+			<hkparam name="frameVector">(0.963198471069336 9.755861282348633 -5.901206970214844 0.0)</hkparam>
+			<hkparam name="particleIndex">35</hkparam>
+			<hkparam name="stiffness">0.009999999776482582</hkparam>
+			<hkparam name="padding">0</hkparam>
+		</hkobject>
+		<hkobject>
+			<hkparam name="frameVector">(-0.472461032867432 9.108875274658203 -5.8513641357421875 0.0)</hkparam>
+			<hkparam name="particleIndex">36</hkparam>
+			<hkparam name="stiffness">0.009999999776482582</hkparam>
+			<hkparam name="padding">0</hkparam>
+		</hkobject>
+		<hkobject>
+			<hkparam name="frameVector">(6.599923610687256 8.600780487060547 -6.042945861816406 0.0)</hkparam>
+			<hkparam name="particleIndex">37</hkparam>
+			<hkparam name="stiffness">0.009999999776482582</hkparam>
+			<hkparam name="padding">0</hkparam>
+		</hkobject>
+	</hkparam>
+</hkobject>

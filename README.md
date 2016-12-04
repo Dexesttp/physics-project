@@ -26,11 +26,11 @@ You'll need HKXPack, which you can get from [its GitHub repository](https://gith
 The default path search for the HKXPack jar is `%git%/af4/hkxpack/cli/target/hkxpack-cli.jar`,
 so you'll need to change it in the `.vscode/tasks.json` file if you want to use another path.
 
-If you want to studychnage the binary files, you can use the
+If you want to study/change the binary files, you can use the
 [Hexdump for VSCode](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-hexdump) VSCode extension.
 
 Then, each time you modify the xml files, you can recompile them using the `Ctrl`+`Shift`+`B` shortcut
-or the `run buld task` Visual Studio code command.
+or the `run build task` Visual Studio code command.
 
 ## Documentation
 
@@ -74,6 +74,6 @@ Microsoft, for pulling out the HCT and forcing me to study and learn a lot about
 
 Ousnius, for the BodySlide/Outfit Studio tool as well as his _really convincing arguments_ that kept me going.
 
-The NifTools team, for their thourough documentation of the Nif files that helpoed us a lot in determinign what to search.
+The NifTools team, for their thourough documentation of the Nif files that helped us a lot in determining what to search.
 
 The SKSE team, for their awesome work on ba2extract and general analysis stuff.

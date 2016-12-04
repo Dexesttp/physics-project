@@ -20,21 +20,32 @@
 18 ; 19 ; 20 ; 22 ; 24 ; 29 ; 30 ; 32
 40 ; 45 ; 62 ; 23 ; 25 ; 26 ; 27 ; 28 ; 31
 
-## Boes subset (x13)
+## Bones subset (x13)
 
 0 53 Chest
 1 54 Chest_rear_skin
 2 55 Chest_skin
 3 56 Chest_upper_skin
+
 4 59 LArm_Collarbone
 5 61 LArm_Collarbone_skin
 6 63 LArm_Shoulderfat_Skin
 7 116 LBreast_Skin
+
 8 126 Neck_low_skin
+
 9 129 RArm_Collarbone
 10 131 RArm_Collarbone_skin
 11 133 RArm_ShoulderFat_skin
 12 189 RBreast_skin
+
+## Switch needed for each bone
+
+L <-> R
+4 <-> 9
+5 <-> 10
+6 <-> 11
+7 <-> 12
 
 ## vertex <=> 4  bones
 
